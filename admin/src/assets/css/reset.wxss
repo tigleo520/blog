@@ -1,0 +1,19 @@
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+.el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.el-upload:hover {
+  border-color: #409EFF;
+}
